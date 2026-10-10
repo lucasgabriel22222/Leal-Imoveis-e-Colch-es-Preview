@@ -1,0 +1,7 @@
+{
+  "name": "Leal Móveis e Colchões — Loja de Colchões Cuiabá",
+  "description": "Loja especializada em colchões de alta qualidade, camas box e sistemas de dormir no Jardim Imperial em Cuiabá. Atendimento consultivo e orçamento rápido pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
